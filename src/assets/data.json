@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung S22 Ultra",
+    "price": 118000,
+    "thumbnail": "https://images.samsung.com/in/smartphones/galaxy-s22-ultra/images/galaxy-s22-ultra_highlights_kv_img.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Boat Bassheads 242",
+    "price": 899,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/eab9128d-65cf-42ce-83a1-03492ec6157d_600x.png?v=1625046386"
+  },
+  {
+    "id": 71,
+    "title": "Macbook Air M2",
+    "price": 100000,
+    "thumbnail": "https://images.hindustantimes.com/tech/img/2022/07/16/original/IMG_4294_1657976412973.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Bluetooth Aux",
+    "price": 25,
+    "thumbnail": "https://dummyjson.com/image/i/products/86/thumbnail.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Nothing 1",
+    "price": 35000,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/2Image_1280x1020_83409983-55dc-40f7-95b8-8f3a85354964_1494x.png?v=1658151016"
+  },
+  {
+    "id": 123,
+    "title": "Samsung Galaxy A73 5G",
+    "price": 45000,
+    "thumbnail": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a73/buy/A73_Desktop-1400x450_1.jpg?imwidth=1366"
+  },
+  {
+    "id": 124,
+    "title": "iPhone 13 pro max",
+    "price": 130000,
+    "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+  },
+  {
+    "id": 122,
+    "title": "Fire boltt",
+    "price": 3599,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0137/0292/2286/products/talk2-black_1_400x.png?v=1653643544"
+  },
+  {
+    "id": 135,
+    "title": "Samsung galaxy Watch 4",
+    "price": 18999,
+    "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398879-sm-r870nzgainu-481111378?$730_584_PNG$"
+  },
+  {
+    "id": 136,
+    "title": "Fossil Gen 5 Touchscreen Men's Smartwatch",
+    "price": 14995,
+    "thumbnail": "https://m.media-amazon.com/images/I/71qNX0wixBL._UX679_.jpg"
+  },
+  {
+    "id": 139,
+    "title": "Alienware m15 R7 Gaming Laptop",
+    "price": 274988,
+    "thumbnail": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/m15-r7-non-touch-non-tobii/media_gallery/laptop-alienware-m15-r7-gallery-hero-single-zone-kb.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,0&resMode=sharp2&size=402,402"
+  },
+  {
+    "id": 141,
+    "title": "Garmin Forerunner 245 Music, GPS Running Smartwatch",
+    "price": 30990,
+    "thumbnail": "https://m.media-amazon.com/images/I/51zwK5zBswL._SX679_.jpg"
+  },
+  {
+    "id": 143,
+    "title": "Fitbit FB507BKBK Versa 2 Health & Fitness Smartwatch",
+    "price": 13999,
+    "thumbnail": "https://m.media-amazon.com/images/I/51oXipGnfHL._SL1000_.jpg"
+  },
+  {
+    "id": 144,
+    "title": "OnePlus Smart Watch with Warp Charging",
+    "price": 14999,
+    "thumbnail": "https://www.reliancedigital.in/medias/One-Plus-Watch-Smart-Watches-492573452-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNTU5NDh8aW1hZ2UvanBlZ3xpbWFnZXMvaGEzL2g4MC85NzY0ODAxNzczNTk4LmpwZ3wxMzA4Y2JjOGU2MTdlYzlhMzZmYTE1NWNlYTdhMzg3M2Q3ZjVmZDkwZGIyMjA5YjA4Y2E3OTlhYjVkNmQxNzZh"
+  },
+  {
+    "id": 145,
+    "title": "Apple Watch Series 3 GPS",
+    "price": 18900,
+    "thumbnail": "https://www.reliancedigital.in/medias/Apple-MTF32HN-A-Smart-Watches-491488097-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0NDY2MnxpbWFnZS9qcGVnfGltYWdlcy9oMGQvaGRjLzkxOTY1ODA5Mjk1NjYuanBnfGMxMGQxNDEwZTgwM2Y2YjI3NTBhN2QxZGE3YzRlMjM3MTBlN2UzOWE4ZTFiOWE0OWZlOGI2MzMyOThmYjlkZGE"
+  },
+  {
+    "id": 146,
+    "title": "Apple Watch SE GPS",
+    "price": 30999,
+    "thumbnail": "https://www.reliancedigital.in/medias/Apple-Watch-SE-GPS-44mm-Sport-Band-491901148-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMDQ1MjN8aW1hZ2UvanBlZ3xpbWFnZXMvaDEzL2hlNi85Mzg0NjM0ODc1OTM0LmpwZ3w5MWVkOWIwNjFjMTMyMzFjNTE2NzAzNzYzY2NlNTlhNTlkZDQ0MzY1YzhhNTYwNTZjMTQ2MDRhNGUwOGE5NzA2"
+  },
+  {
+    "id": 147,
+    "title": "Apple Watch Series 7 GPS",
+    "price": 39805,
+    "thumbnail": "https://www.reliancedigital.in/medias/Apple-Series-7-Smart-Watches-491998515-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNTg2NjV8aW1hZ2UvanBlZ3xpbWFnZXMvaGY3L2g5ZC85NjQ5NDkwMDM0NzE4LmpwZ3xkMWRjMDM1MmIxZTk3M2Y5MjYzYmViZjM2M2FjOGM2NDVjZGE3MzcwZjVlODM4MjBjYzgxZjdhNzY3NzNmMTE2"
+  },
+  {
+    "id": 148,
+    "title": "Apple Watch Series 4 GPS + Cellular",
+    "price": 52900,
+    "thumbnail": "https://www.reliancedigital.in/medias/Apple-WatchS4-44mm-GD-AL-Cs-PS-S-Bnd-Cel-491488327-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDI1NzV8aW1hZ2UvanBlZ3xpbWFnZXMvaDA5L2g4NS85MDUwNjQzMTAzNzc0LmpwZ3wwOGRlZjZlMDg5ZWRlMjA2YWE5MmE0OTAzYTAyYjg1ODc2NDhmN2MwOGEzNWEyMTE1OWU0NTdlMjJjYzcyOTIz"
+  },
+  {
+    "id": 150,
+    "title": "Nikon D3500 DSLR Camera with AF-P 18-55 mm + AF-P 70-300 mm VR Kit",
+    "price": 48990,
+    "thumbnail": "https://www.reliancedigital.in/medias/Nikon-D3500-DSLR-Camera-491431009-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NDYwMnxpbWFnZS9qcGVnfGltYWdlcy9oODcvaGFmLzkwNzAzNTYwNzA0MzAuanBnfDk1ODVmYTQ0NzY3Yzg5NTAyNzhkNjllMDNmYTE1MWM5MzNlMTRlNDQxNTUyZDI2YWMxMWYzYTlmNjNjNDc3ZjQ"
+  }, 
+  {
+    "id": 151,
+    "title": "Nikon D7500 DSLR Camera with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens",
+    "price": 13999,
+    "thumbnail": "https://www.reliancedigital.in/medias/Nikon-VBK510UN-DSLR-Cameras-491431245-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMDc5MDJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDQ4L2hjMS85MTE3MDE3ODY2MjcwLmpwZ3xkYzNiM2Y1N2EzZjdkMGFhMjI5ZjU5M2I3NmVkOGFiMGQwZTliODBjYmIwOTgzYjIxY2Q2MmVkMDMxZDdiMWRj"
+  }
+]
